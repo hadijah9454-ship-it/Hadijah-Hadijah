@@ -1,0 +1,6 @@
+{
+  "name": "UPTD SDN 5 BARANDASI - Portal Resmi Sekolah & SPMB 2026",
+  "description": "Website Resmi UPTD SDN 5 Barandasi Kabupaten Maros. Informasi Sekolah, Kurikulum Operasional (KSP), Berita, Galeri, dan Pendaftaran SPMB 2026 via Pusdatin Maros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
